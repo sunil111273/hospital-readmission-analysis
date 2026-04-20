@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Preview
 
-![Hospital Dashboard](dashboard.png)
+![Hospital Dashboard](Dashboard.png)
 
 ## 📂 Project Structure
 
